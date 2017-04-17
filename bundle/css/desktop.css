@@ -1,0 +1,19 @@
+.app {
+  height: 100%;
+}
+
+.media-info {
+  margin: 0 auto;
+  width: 70%;
+  font-size: 1em;
+}
+
+video {
+  display: block;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.video-nav {
+  width: 70%;
+}
